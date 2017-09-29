@@ -4,7 +4,7 @@ const bodyParser = require("body-parser");
 const exphbs = require("express-handlebars");
 
 const app = express();
-const port = process.env.port || 3000;
+const port = process.env.port || 3006;
 app.use(express.static(__dirname + "/public"));
 
 app.use(bodyParser.urlencoded({ extended: false }));
