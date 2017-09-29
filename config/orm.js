@@ -23,7 +23,7 @@ let burger = {
 		}
 	}
 
-connection.end();
+
 
 
 /*let orm = {
