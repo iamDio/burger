@@ -1,0 +1,8 @@
+
+ {
+	"name": "mvc-handlebars-mysql-example",
+	"description":
+		"A node.js which demonstrates how to setup a MySQL database, using handlebars as a templating engine, and the Model-View-Controllers design pattern ",
+	"repository": "https://github.com/iamDio/mvc-handlebars-mysql-example.git",
+	"keywords": ["node", "express"]
+}

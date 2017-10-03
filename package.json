@@ -1,21 +1,21 @@
 {
-  "name": "burger",
+  "name": "mvc-handlebars-mysql-example",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamDio/burger.git"
+    "url": "git+https://github.com/iamDio/mvc-handlebars-mysql-example.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iamDio/burger/issues"
+    "url": "https://github.com/iamDio/mvc-handlebars-mysql-example/issues"
   },
-  "homepage": "https://github.com/iamDio/burger#readme",
+  "homepage": "https://github.com/iamDio/mvc-handlebars-mysql-example#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "^4.15.4",
