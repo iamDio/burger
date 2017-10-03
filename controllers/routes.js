@@ -1,6 +1,7 @@
 const express = require("express");
 var router = express.Router();
 const burger = require("../models/burger.js");
+const connection = require('../config/connection')
 
 router.get("/", function(req,res){
 	burger.all(function(burger_data){
@@ -24,4 +25,5 @@ router.post("/burgers/create", function(req,res){
 	});
 });
 
+connection.end();
 module.exports= router;

@@ -25,6 +25,7 @@ let burger = {
 
 
 
+
 /*let orm = {
 //selectAll() method 
 selectAll: function(table) {
