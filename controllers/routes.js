@@ -25,5 +25,4 @@ router.post("/burgers/create", function(req,res){
 	});
 });
 
-connection.end();
 module.exports= router;
